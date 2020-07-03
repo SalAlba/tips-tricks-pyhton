@@ -3,6 +3,7 @@ Never Use Windows :angry:
 
 ## Burned DVD / Bootable USB stick
 ## Install ubuntu desktop
+## Resources
 
 
 ## Burned DVD / Bootable USB stick
@@ -40,3 +41,7 @@ Befor start the installation check the requirements of sepecfic version.
 
 
 > F12 is the most common key for bringing up your system’s boot menu, but Escape, F2 and F10 are common alternatives. If you’re unsure, look for a brief message when your system starts - this will often inform you of which key to press to bring up the boot menu.
+
+
+## Resources
+1. [[1.1] Easy ways to switch to Ubuntu.](https://ubuntu.com/download/desktop)
