@@ -9,7 +9,7 @@
 ```
 
 
-# install python [src](https://www.youtube.com/watch?v=AYlKSAqkPX4)
+# install python [src1](https://www.youtube.com/watch?v=AYlKSAqkPX4) [src2](https://hackersandslackers.com/multiple-versions-python-ubuntu/)
 
 ```
 lsb_release -a; uname -r
@@ -47,7 +47,7 @@ cd Python-3.6.8
 
 
 ```
-make altinstall
+sudo make altinstall
 ```
 
 
